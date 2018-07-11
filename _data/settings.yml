@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Universion
-description: 
+description: Universion; projects made by Angela Wütrich
 email: a.wuthrich8@gx.ch
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
+  description: 'Universion; projects made by Angela Wütrich'
   rel-author: 'https://instagram.com/angela_wuetrich'
   rel-publisher: 'https://instagram.com/angela_wuetrich'
 
@@ -39,7 +39,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  I'm Angela. I like to learn things and share what I learn. This project showcases the ability to make life of my surroundings.
+  I like to learn things and share what I learn. This project showcases the ability to make life of my surroundings.
 
 
 skills:
