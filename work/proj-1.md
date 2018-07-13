@@ -1,12 +1,13 @@
 ---
 title: Typo International Design Talks Stuff
+published: true
 ---
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+The Campanula persicifolia starts blooming in June. Linné said: "Växer på stenbundna ängar bland törnsnår och enbuskar. Den stora blå klockan tjänar som paraply för mångahanda insekter när det regnar, och skyddar även insekterna under natten mot kvällsdaggen."
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
+![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
+![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
+![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
+
