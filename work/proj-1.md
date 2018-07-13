@@ -1,5 +1,5 @@
 ---
-title: Typo International Design Talks Stuff
+title: Blåklocka
 published: true
 ---
 
@@ -10,4 +10,3 @@ The Campanula persicifolia starts blooming in June. Linné said: "Växer på ste
 ![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
 ![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
 ![Blåklocka]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
-
