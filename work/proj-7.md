@@ -1,9 +1,14 @@
 ---
 title: Weather Dashboard
+published: true
 ---
 
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img0.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img1.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img2.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img3.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img4.jpg)
+![Vass]({{ site.github.url }}/assets/img/work/proj-7/img1.jpg)
+
+"Strandrör, i Uppland rör, i Götaland vass, i Småland skärvass. Växer i sjöar, floder och sandiga myrar i hela Sverige; mycket skadlig för åkrarna i Halland." "Med vippan färgar kvinnorna ylletyg gröna. Gipsmakarna använder stråna vid gipsning av tak. Om de håriga fröna kommer in i öronen, förorsakar de dövhet."
+
+//Linné, 1755
+
+![Vass]({{ site.github.url }}/assets/img/work/proj-7/img2.jpg)
+![Vass]({{ site.github.url }}/assets/img/work/proj-7/img3.jpg)
+
