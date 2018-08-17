@@ -10,7 +10,6 @@ email: a.wuthrich8@gmx.ch
 menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
@@ -20,8 +19,8 @@ menu:
 
 seo:
   description: 'Universion; projects made by Angela Wütrich'
-  rel-author: 'https://instagram.com/angela_wuetrich'
-  rel-publisher: 'https://instagram.com/angela_wuetrich'
+  rel-author: 'https://instagram.com/angela_wuethrich'
+  rel-publisher: 'https://instagram.com/angela_wuethrich'
 
 #-------------------------------
 # Google Analytics Section
@@ -31,7 +30,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: UA-124175026-1
 
 #-------------------------------
 # About Section
@@ -39,7 +38,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  I like to learn things and share what I learn. This project showcases the ability to make life out of my surroundings.
+  Swiss in Sweden // I like to learn things and share what I learn. This project showcases the ability to make life out of my surroundings.
 
 
 skills:
@@ -98,7 +97,7 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'http://instagram.com/angela_wuetrich'}
+- {icon: 'instagram', link: 'http://instagram.com/angela_wuethrich'}
 
 
 
